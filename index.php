@@ -6,7 +6,7 @@
     <?php include 'css/style.php'; ?>
 </head>
 <body>
-
+<!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg nav-style p-3 bg-primary">
   <a class="navbar-brand pl-4" href="#">COVID-19 Statistics</a>
   <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
